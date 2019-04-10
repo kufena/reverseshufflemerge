@@ -5,7 +5,12 @@ VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "reverseshufflemerge", "reverseshufflemerge\reverseshufflemerge.csproj", "{A11F8388-0A24-44D5-848A-D2869DDAEF57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverseshufflemergetest", "reverseshufflemergetest\reverseshufflemergetest.csproj", "{85ED0E7F-FBC8-4963-A09A-09326F00450A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "reverseshufflemergetest", "reverseshufflemergetest\reverseshufflemergetest.csproj", "{85ED0E7F-FBC8-4963-A09A-09326F00450A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2597A1D3-4592-4D65-B00E-1C8CD27639D0}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
