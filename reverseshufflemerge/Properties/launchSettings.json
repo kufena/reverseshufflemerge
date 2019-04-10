@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "reverseshufflemerge": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\TextFile1.txt"
+    }
+  }
+}
